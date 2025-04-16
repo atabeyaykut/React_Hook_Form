@@ -11,15 +11,6 @@ export const initialTasks = [
     status: 'yapıldı',
   },
   {
-    id: 2,
-    title: 'Projede neler yapmalıyız, bir liste çıkar',
-    description:
-      'Projede neler yapmamız gerekiyor? Aklımıza gelen her adımı yazalım.',
-    people: ['ömer'],
-    deadline: '',
-    status: 'yapılacak',
-  },
-  {
     id: 3,
     title: 'Yapılacaklar listesini sıraya koy',
     description:
