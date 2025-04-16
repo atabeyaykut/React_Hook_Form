@@ -37,4 +37,13 @@ export const initialTasks = [
     deadline: '',
     status: 'yapılacak',
   },
+  {
+    id: 5,
+    title: 'Yazmaya bırak!',
+    description:
+      'Burada kimin ne dediği belirsiz.',
+    people: ['Ata', 'Hilal'],
+    deadline: '',
+    status: 'yapıldı',
+  }
 ];
